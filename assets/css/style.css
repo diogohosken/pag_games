@@ -1,0 +1,49 @@
+body {
+	font-family: Lato, sans-serif;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+.logo {
+	width: 55px;
+	height: 55px;
+}
+
+#item-lista-categoria{
+	margin-bottom: 5px;
+}
+
+#propaganda {
+	height: 130px;
+}
+
+#propaganda_topo {
+	height: 40px;
+	background-color: #000;
+}
+
+#propaganda_footer{
+	height: 140px;
+}
+
+.img-slide{
+	width: 730px;
+	height: 350px;
+}
+
+.icone {
+	margin: 6px;
+}
+
+.caixa_cinza {
+	width: 50px;
+	height: 35px;
+	background-color: #DDD;
+	margin-right: 4px;
+}
+
+.titulo {
+	font-size: 18px;
+}
