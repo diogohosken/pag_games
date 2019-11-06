@@ -35,7 +35,7 @@
 		<div class="carousel-item">
 			<img class="img-slide" src="assets/imagens/natureza4.jpeg"/>
 			<div class="carousel-caption">
-				<h5>Título do quarto slide</h5>
+				<h5>Título do terceiro slide</h5>
 				<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
 			</div>
 		</div>

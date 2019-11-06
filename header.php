@@ -18,7 +18,7 @@
 			<header class="container">
 				<nav class="navbar align-items-center">
 					<div class="logo">
-						<a href="#" class="navbar-brand text-light">
+						<a href="#" class="navbar-brand text-light" data-toggle="tooltip" data-placement="right" title="Logo">
 							<img src="assets/imagens/logo1.png" class="logo" alt="Logo"/>
 						</a>
 					</div>
@@ -36,7 +36,7 @@
 									<a href=""><i class="fas fa-search text-light"></i></a>
 								</span>
 							</div>
-							<input class="form-control bg-dark text-light" type="text" name="pesquisa" placeholder="O que você quer jogar?" />
+							<input id="searchBar" class="form-control bg-dark text-light " type="text" name="pesquisa" placeholder="O que você quer jogar?" />
 						</div>
 					</form> 
 
